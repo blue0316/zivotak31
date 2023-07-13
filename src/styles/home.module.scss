@@ -65,7 +65,7 @@
                 font-size: clamp(1.5rem, 4.5vw, 4rem);
                 color: var(--color-base-text-bold);
 
-                @media screen and (max-width: 1000px)
+                @media screen and (width <= 1000px)
                 {
                     text-align: center;
                 }
@@ -75,7 +75,7 @@
             {
                 display: flex;
 
-                @media screen and (max-width: 1000px)
+                @media screen and (width <= 1000px)
                 {
                     flex-direction: column;
                     text-align: center;
@@ -107,7 +107,7 @@
             {
                 align-self: start;
 
-                @media screen and (max-width: 1000px)
+                @media screen and (width <= 1000px)
                 {
                     align-self: center;
                     margin-top: 2rem;
@@ -174,7 +174,7 @@
 
         padding: 0 3rem;
 
-        @media screen and (max-width: 1500px)
+        @media screen and (width <= 1500px)
         {
             display: flex;
             flex-direction: column;
@@ -281,7 +281,7 @@
         grid-template-columns: repeat(auto-fit, minmax(40rem, 1fr));
         grid-gap: 2rem;
 
-        @media screen and (max-width: 500px)
+        @media screen and (width <= 500px)
         {
             grid-template-columns: 1fr;
         }

@@ -1,10 +1,10 @@
 ---
-author: 'IntelligentQuantum'
+author: 'AndrewUltimate'
 source: 'NextJS'
 date: '2020-01-01'
 category: 'educational'
 title: 'Getting Started with Next.js'
-image: 'IntelligentQuantum.jpg'
+image: 'AndrewUltimate.jpg'
 excerpt: 'This is a short description of the article.'
 ---
 

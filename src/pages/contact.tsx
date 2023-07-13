@@ -35,22 +35,22 @@ const Contact: NextPage = () =>
             <Head>
                 <meta name='Classification' content='Contact'/>
                 <meta name='subject' content='Contact'/>
-                <meta name='description' content='IntelligentQuantum Contact'/>
-                <meta name='keywords' content='IntelligentQuantum, IQ, Quantum, Intelligent, Contact'/>
-                <meta name='author' content='IntelligentQuantum'/>
+                <meta name='description' content='AndrewUltimate Contact'/>
+                <meta name='keywords' content='AndrewUltimate, IQ, Quantum, Intelligent, Contact'/>
+                <meta name='author' content='AndrewUltimate'/>
 
                 <meta property='og:type' content='website'/>
                 <meta property='og:url' content='https://andrewultimate.dev/contact'/>
-                <meta property='og:title' content='IntelligentQuantum'/>
-                <meta property='og:description' content='IntelligentQuantum Contact'/>
+                <meta property='og:title' content='AndrewUltimate'/>
+                <meta property='og:description' content='AndrewUltimate Contact'/>
                 <meta property='og:image' content='https://andrewultimate.dev/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
                 <meta property='twitter:url' content='https://andrewultimate.dev/contact'/>
-                <meta property='twitter:title' content='IntelligentQuantum'/>
-                <meta property='twitter:description' content='IntelligentQuantum Contact'/>
+                <meta property='twitter:title' content='AndrewUltimate'/>
+                <meta property='twitter:description' content='AndrewUltimate Contact'/>
 
-                <title>IntelligentQuantum &mdash; Contact with me</title>
+                <title>AndrewUltimate &mdash; Contact with me</title>
             </Head>
 
             <section className={styles.contact}>

@@ -40,49 +40,49 @@
                 "id": 1,
                 "name": "HTML",
                 "src": "/images/logos/logo-html.png",
-                "alt": "IntelligentQuantum Html Logo"
+                "alt": "AndrewUltimate Html Logo"
             },
             {
                 "id": 2,
                 "name": "Sass",
                 "src": "/images/logos/logo-sass.png",
-                "alt": "IntelligentQuantum sass Logo"
+                "alt": "AndrewUltimate sass Logo"
             },
             {
                 "id": 3,
                 "name": "TailwindCSS",
                 "src": "/images/logos/logo-tailwindcss.png",
-                "alt": "IntelligentQuantum TailwindCSS Logo"
+                "alt": "AndrewUltimate TailwindCSS Logo"
             },
             {
                 "id": 4,
                 "name": "ReactJS",
                 "src": "/images/logos/logo-react.png",
-                "alt": "IntelligentQuantum ReactJS Logo"
+                "alt": "AndrewUltimate ReactJS Logo"
             },
             {
                 "id": 5,
                 "name": "NextJS",
                 "src": "/images/logos/logo-next.png",
-                "alt": "IntelligentQuantum NextJS Logo"
+                "alt": "AndrewUltimate NextJS Logo"
             },
             {
                 "id": 6,
                 "name": "AngularJS",
                 "src": "/images/logos/logo-angular.png",
-                "alt": "IntelligentQuantum AngularJS Logo"
+                "alt": "AndrewUltimate AngularJS Logo"
             },
             {
                 "id": 7,
                 "name": "VueJS",
                 "src": "/images/logos/logo-vue.png",
-                "alt": "IntelligentQuantum VueJS Logo"
+                "alt": "AndrewUltimate VueJS Logo"
             },
             {
                 "id": 8,
                 "name": "NuxtJS",
                 "src": "/images/logos/logo-nuxt.png",
-                "alt": "IntelligentQuantum NuxtJS Logo"
+                "alt": "AndrewUltimate NuxtJS Logo"
             }
         ],
         "backend":
@@ -91,37 +91,37 @@
                 "id": 1,
                 "name": "NodeJS",
                 "src": "/images/logos/logo-node.png",
-                "alt": "IntelligentQuantum NodeJS Logo"
+                "alt": "AndrewUltimate NodeJS Logo"
             },
             {
                 "id": 2,
                 "name": "DenoJS",
                 "src": "/images/logos/logo-deno.png",
-                "alt": "IntelligentQuantum DenoJS Logo"
+                "alt": "AndrewUltimate DenoJS Logo"
             },
             {
                 "id": 3,
                 "name": "ExpressJS",
                 "src": "/images/logos/logo-express.png",
-                "alt": "IntelligentQuantum ExpressJS Logo"
+                "alt": "AndrewUltimate ExpressJS Logo"
             },
             {
                 "id": 4,
                 "name": "NestJS",
                 "src": "/images/logos/logo-nest.png",
-                "alt": "IntelligentQuantum NestJS Logo"
+                "alt": "AndrewUltimate NestJS Logo"
             },
             {
                 "id": 5,
                 "name": "Laravel",
                 "src": "/images/logos/logo-laravel.png",
-                "alt": "IntelligentQuantum Laravel Logo"
+                "alt": "AndrewUltimate Laravel Logo"
             },
             {
                 "id": 6,
                 "name": "Ruby on rails",
                 "src": "/images/logos/logo-ruby.png",
-                "alt": "IntelligentQuantum Ruby on rails Logo"
+                "alt": "AndrewUltimate Ruby on rails Logo"
             }
         ],
         "crossPlatforms":
@@ -130,19 +130,19 @@
                 "id": 1,
                 "name": "ElectronJS",
                 "src": "/images/logos/logo-electron.png",
-                "alt": "IntelligentQuantum ElectronJS Logo"
+                "alt": "AndrewUltimate ElectronJS Logo"
             },
             {
                 "id": 2,
                 "name": "React Native",
                 "src": "/images/logos/logo-react-native.png",
-                "alt": "IntelligentQuantum React native Logo"
+                "alt": "AndrewUltimate React native Logo"
             },
             {
                 "id": 3,
                 "name": "Python",
                 "src": "/images/logos/logo-python.png",
-                "alt": "IntelligentQuantum Python Logo"
+                "alt": "AndrewUltimate Python Logo"
             }
         ]
     }

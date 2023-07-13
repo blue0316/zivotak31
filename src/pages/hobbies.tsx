@@ -16,22 +16,22 @@ const Hobbies: NextPage = () =>
             <Head>
                 <meta name='Classification' content='Portfolio Hobbies'/>
                 <meta name='subject' content='Portfolio Hobbies'/>
-                <meta name='description' content='IntelligentQuantum Hobbies'/>
-                <meta name='keywords' content='IntelligentQuantum, IQ, Quantum, Intelligent, Hobbies'/>
-                <meta name='author' content='IntelligentQuantum'/>
+                <meta name='description' content='AndrewUltimate Hobbies'/>
+                <meta name='keywords' content='AndrewUltimate, IQ, Quantum, Intelligent, Hobbies'/>
+                <meta name='author' content='AndrewUltimate'/>
 
                 <meta property='og:type' content='website'/>
                 <meta property='og:url' content='https://andrewultimate.dev/hobbies'/>
-                <meta property='og:title' content='IntelligentQuantum'/>
-                <meta property='og:description' content='IntelligentQuantum Hobbies'/>
+                <meta property='og:title' content='AndrewUltimate'/>
+                <meta property='og:description' content='AndrewUltimate Hobbies'/>
                 <meta property='og:image' content='https://andrewultimate.dev/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
                 <meta property='twitter:url' content='https://andrewultimate.dev/hobbies'/>
-                <meta property='twitter:title' content='IntelligentQuantum'/>
-                <meta property='twitter:description' content='IntelligentQuantum Hobbies'/>
+                <meta property='twitter:title' content='AndrewUltimate'/>
+                <meta property='twitter:description' content='AndrewUltimate Hobbies'/>
 
-                <title>IntelligentQuantum &mdash; Hobbies</title>
+                <title>AndrewUltimate &mdash; Hobbies</title>
             </Head>
 
             <section className={styles.hobbies}>

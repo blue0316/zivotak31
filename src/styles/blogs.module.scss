@@ -99,7 +99,7 @@
             justify-content: space-between;
             padding-right: 3rem;
 
-            @media only screen and (max-width: 600px)
+            @media only screen and (width <= 600px)
             {
                 flex-direction: column;
                 padding-right: 0;
@@ -140,7 +140,7 @@
             flex-direction: row-reverse;
             grid-gap: 2rem;
 
-            @media only screen and (max-width: 1500px)
+            @media only screen and (width <= 1500px)
             {
                 flex-direction: column;
             }

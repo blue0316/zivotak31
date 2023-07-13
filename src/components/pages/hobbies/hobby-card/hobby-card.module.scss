@@ -12,7 +12,7 @@
 
     padding: 6rem;
 
-    @media only screen and (max-width: 700px)
+    @media only screen and (width <= 700px)
     {
         max-height: fit-content;
         padding: 2rem;
@@ -42,7 +42,7 @@
     {
         flex: 0 0 55%;
 
-        @media only screen and (max-width: 1430px)
+        @media only screen and (width <= 1430px)
         {
             flex: 0 0 100%;
             flex-wrap: wrap;
@@ -54,7 +54,7 @@
             font-size: 4rem;
             margin-bottom: 2rem;
 
-            @media only screen and (max-width: 1800px)
+            @media only screen and (width <= 1800px)
             {
                 font-size: 3rem;
             }
@@ -66,13 +66,13 @@
             font-size: 1.8rem;
             font-weight: 400;
 
-            @media only screen and (max-width: 1400px)
+            @media only screen and (width <= 1400px)
             {
                 margin-bottom: 4rem;
                 font-size: 1.5rem;
             }
 
-            @media only screen and (max-width: 1000px)
+            @media only screen and (width <= 1000px)
             {
                 margin-bottom: 1rem;
             }
@@ -84,17 +84,17 @@
         flex: 0 0 20%;
         align-self: flex-start;
 
-        @media only screen and (max-width: 1800px)
+        @media only screen and (width <= 1800px)
         {
             max-width: 65%;
         }
 
-        @media only screen and (max-width: 1575px)
+        @media only screen and (width <= 1575px)
         {
             padding-right: 0;
         }
 
-        @media only screen and (max-width: 1430px)
+        @media only screen and (width <= 1430px)
         {
             display: none;
         }

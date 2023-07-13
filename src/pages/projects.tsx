@@ -18,22 +18,22 @@ const Projects: NextPage = () =>
             <Head>
                 <meta name='Classification' content='Portfolio Project'/>
                 <meta name='subject' content='Portfolio Project'/>
-                <meta name='description' content='IntelligentQuantum Project'/>
-                <meta name='keywords' content='IntelligentQuantum, IQ, Quantum, Intelligent, Project'/>
-                <meta name='author' content='IntelligentQuantum'/>
+                <meta name='description' content='AndrewUltimate Project'/>
+                <meta name='keywords' content='AndrewUltimate, IQ, Quantum, Intelligent, Project'/>
+                <meta name='author' content='AndrewUltimate'/>
 
                 <meta property='og:type' content='website'/>
                 <meta property='og:url' content='https://andrewultimate.dev/projects'/>
-                <meta property='og:title' content='IntelligentQuantum'/>
-                <meta property='og:description' content='IntelligentQuantum Projects'/>
+                <meta property='og:title' content='AndrewUltimate'/>
+                <meta property='og:description' content='AndrewUltimate Projects'/>
                 <meta property='og:image' content='https://andrewultimate.dev/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
                 <meta property='twitter:url' content='https://andrewultimate.dev/Projects'/>
-                <meta property='twitter:title' content='IntelligentQuantum'/>
-                <meta property='twitter:description' content='IntelligentQuantum Projects'/>
+                <meta property='twitter:title' content='AndrewUltimate'/>
+                <meta property='twitter:description' content='AndrewUltimate Projects'/>
 
-                <title>IntelligentQuantum &mdash; Projects</title>
+                <title>AndrewUltimate &mdash; Projects</title>
             </Head>
 
             <section className={styles.projects}>

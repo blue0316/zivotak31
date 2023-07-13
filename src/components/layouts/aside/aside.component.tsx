@@ -39,7 +39,7 @@ const Aside = () =>
                     <Image
                         className={styles.asideUserImage}
                         src='/images/my-image.jpg'
-                        alt='IntelligentQuantum'
+                        alt='AndrewUltimate'
                         width={100}
                         height={100}
                     />

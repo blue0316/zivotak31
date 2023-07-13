@@ -56,7 +56,7 @@ class IQDocument extends Document
                                     name: 'Andrew Stark'
                                 },
                                 email: 'mailto:andrewultimate0316@gmail.com',
-                                // image: 'https://andrewultimate.dev/images/IntelligentQuantum.png',
+                                // image: 'https://andrewultimate.dev/images/AndrewUltimate.png',
                                 jobTitle: 'Full-Stack Developer',
                                 // url: 'https://andrewultimate.dev'
                             })

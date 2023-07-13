@@ -16,7 +16,7 @@ const OrganizationCard = ({ login, avatarUrl }: any) =>
             >
                 <Image
                     src={avatarUrl}
-                    alt={`IntelligentQuantum ${ login }`}
+                    alt={`AndrewUltimate ${ login }`}
                     width={120}
                     height={120}
                 />
