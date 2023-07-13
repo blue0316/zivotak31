@@ -90,7 +90,7 @@
             "category": "Game",
             "image": "/images/projects/game-trinitycore.png",
             "title": "TrinityCore World Of Warcraft",
-            "description": "TrinityCore is an MMORPG framework that's built using C++, and using a back-end of MySQL for the DB content.",
+            "description": "TrinityCore is an MMORPG framework that's built using Python, and using a back-end of MySQL for the DB content.",
             "link": "https://github.com/TrinityCore/TrinityCore/"
         },
         {
@@ -146,7 +146,7 @@
             "category": "Web",
             "image": "/images/projects/web-infinity.png",
             "title": "Infinity RP",
-            "description": "The Infinity Roleplay server is one of the newest and best RP servers in Iran at the moment, which is managed by experienced people on the FiveM platform.",
+            "description": "The Infinity Roleplay server is one of the newest and best RP servers in USA at the moment, which is managed by experienced people on the FiveM platform.",
             "link": "https://infinity-tm.net/"
         }
     ]

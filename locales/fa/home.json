@@ -7,7 +7,7 @@
         { "restfull": "I build RESTFUL and GraphQL APIs." },
         { "games": "I build games with Unreal, Frostbite and Unity engines." },
         { "cyber": "I am cyber security enthusiast." },
-        { "languages": "I am JavaScripts, TypeScript, and C++ developer." },
+        { "languages": "I am JavaScripts, TypeScript, and Python developer." },
         { "frontend": "I am ReactJS and NextJS developer." },
         { "backend": "I am NodeJS, DenoJS, NestJS and Poco developer." },
         { "cross": "I am Electron, React Native and Qt developer." }
@@ -23,7 +23,7 @@
     "about":
     [
         { "heading": "About me" },
-        { "paragraph": "Hamed is a big enthusiast of unsolved problems and a highly qualified software engineer with more than five years of experience with web, mobile, and software development working for companies from small startups to big ones. He enjoys working with people, is not afraid of changes, is very good at interpersonal skills, and is always open to new challenges. He has experience working with PHP and C++ as well as their frameworks such as Poco and Qt, but he focuses on JavaScript-related technologies like Typescript, NodeJS, DenoJS, NestJS, NextJS, React and React Native." },
+        { "paragraph": "Andrew is a big enthusiast of unsolved problems and a highly qualified software engineer with more than five years of experience with web, mobile, and software development working for companies from small startups to big ones. He enjoys working with people, is not afraid of changes, is very good at interpersonal skills, and is always open to new challenges. He has experience working with PHP and Python as well as their frameworks such as Poco and Qt, but he focuses on JavaScript-related technologies like Typescript, NodeJS, DenoJS, NestJS, NextJS, React and React Native." },
         { "fat": "Frameworks and Technologies" }
     ],
     "services":

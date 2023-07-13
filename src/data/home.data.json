@@ -50,9 +50,9 @@
             },
             {
                 "id": 3,
-                "name": "Styled Component",
-                "src": "/images/logos/logo-styled-component.png",
-                "alt": "IntelligentQuantum Styled Component Logo"
+                "name": "TailwindCSS",
+                "src": "/images/logos/logo-tailwindcss.png",
+                "alt": "IntelligentQuantum TailwindCSS Logo"
             },
             {
                 "id": 4,
@@ -65,6 +65,24 @@
                 "name": "NextJS",
                 "src": "/images/logos/logo-next.png",
                 "alt": "IntelligentQuantum NextJS Logo"
+            },
+            {
+                "id": 6,
+                "name": "AngularJS",
+                "src": "/images/logos/logo-angular.png",
+                "alt": "IntelligentQuantum AngularJS Logo"
+            },
+            {
+                "id": 7,
+                "name": "VueJS",
+                "src": "/images/logos/logo-vue.png",
+                "alt": "IntelligentQuantum VueJS Logo"
+            },
+            {
+                "id": 8,
+                "name": "NuxtJS",
+                "src": "/images/logos/logo-nuxt.png",
+                "alt": "IntelligentQuantum NuxtJS Logo"
             }
         ],
         "backend":
@@ -92,6 +110,18 @@
                 "name": "NestJS",
                 "src": "/images/logos/logo-nest.png",
                 "alt": "IntelligentQuantum NestJS Logo"
+            },
+            {
+                "id": 5,
+                "name": "Laravel",
+                "src": "/images/logos/logo-laravel.png",
+                "alt": "IntelligentQuantum Laravel Logo"
+            },
+            {
+                "id": 6,
+                "name": "Ruby on rails",
+                "src": "/images/logos/logo-ruby.png",
+                "alt": "IntelligentQuantum Ruby on rails Logo"
             }
         ],
         "crossPlatforms":
@@ -110,9 +140,9 @@
             },
             {
                 "id": 3,
-                "name": "QT",
-                "src": "/images/logos/logo-qt.png",
-                "alt": "IntelligentQuantum QT Logo"
+                "name": "Python",
+                "src": "/images/logos/logo-python.png",
+                "alt": "IntelligentQuantum Python Logo"
             }
         ]
     }

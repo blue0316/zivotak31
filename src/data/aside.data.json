@@ -4,20 +4,20 @@
         {
             "id": 1,
             "name": "HTML",
-            "progress": "87%",
-            "progressActive": "87%"
+            "progress": "95%",
+            "progressActive": "95%"
         },
         {
             "id": 2,
             "name": "CSS",
-            "progress": "80%",
-            "progressActive": "80%"
+            "progress": "92%",
+            "progressActive": "92%"
         },
         {
             "id": 3,
             "name": "Javascript",
-            "progress": "82%",
-            "progressActive": "82%"
+            "progress": "90%",
+            "progressActive": "90%"
         },
         {
             "id": 4,
@@ -27,9 +27,9 @@
         },
         {
             "id": 5,
-            "name": "C++",
-            "progress": "48%",
-            "progressActive": "48%"
+            "name": "Python",
+            "progress": "85%",
+            "progressActive": "85%"
         }
     ],
     "libraries":
@@ -40,7 +40,7 @@
         },
         {
             "id": 2,
-            "names": "Sass, Less, Styled Components"
+            "names": "Sass, Less, TailwindCSS"
         },
         {
             "id": 3,
@@ -61,6 +61,14 @@
         {
             "id": 7,
             "names": "Boost, Poco, Curl"
+        },
+        {
+            "id": 8,
+            "names": "Python, GoLang, Ruby"
+        },
+        {
+            "id": 9,
+            "names": "Keras, TensorFlow, SciKIT"
         }
     ]
 }

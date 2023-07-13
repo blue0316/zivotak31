@@ -40,13 +40,13 @@ const Contact: NextPage = () =>
                 <meta name='author' content='IntelligentQuantum'/>
 
                 <meta property='og:type' content='website'/>
-                <meta property='og:url' content='https://intelligentquantum.dev/contact'/>
+                <meta property='og:url' content='https://andrewultimate.dev/contact'/>
                 <meta property='og:title' content='IntelligentQuantum'/>
                 <meta property='og:description' content='IntelligentQuantum Contact'/>
-                <meta property='og:image' content='https://intelligentquantum.dev/favicon.png'/>
+                <meta property='og:image' content='https://andrewultimate.dev/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
-                <meta property='twitter:url' content='https://intelligentquantum.dev/contact'/>
+                <meta property='twitter:url' content='https://andrewultimate.dev/contact'/>
                 <meta property='twitter:title' content='IntelligentQuantum'/>
                 <meta property='twitter:description' content='IntelligentQuantum Contact'/>
 
@@ -60,15 +60,15 @@ const Contact: NextPage = () =>
                         <ul className={styles.contactCardsCardList}>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Residence:</span>
-                                <span>Iran</span>
+                                <span>United States</span>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>City:</span>
-                                <span>Shiraz</span>
+                                <span>Austin, TX</span>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Age:</span>
-                                <span>{new Date().getFullYear() - 1997}</span>
+                                <span>{new Date().getFullYear() - 1995}</span>
                             </li>
                         </ul>
                     </div>
@@ -76,15 +76,15 @@ const Contact: NextPage = () =>
                         <ul className={styles.contactCardsCardList}>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Gmail:</span>
-                                <a href="mailto:Intelligentquantum@Gmail.com">IntelligentQuantum</a>
+                                <a href="mailto:andrewultimate0316@gmail.com">AndrewUltimate</a>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>ProtonMail:</span>
-                                <a href="mailto:Intelligentquantum@ProtonMail.com">IntelligentQuantum</a>
+                                <a href="mailto:andrewjin0316@proton.me">AndrewUltimate</a>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Discord:</span>
-                                <span>IntelligentQuantum#6439</span>
+                                <span></span>
                             </li>
                         </ul>
                     </div>
@@ -92,11 +92,11 @@ const Contact: NextPage = () =>
                         <ul className={styles.contactCardsCardList}>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Mobile:</span>
-                                <span>+98 9170459330</span>
+                                <span>+1 (510) 993-0355</span>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Whatsapp:</span>
-                                <span>+</span>
+                                <span>+1 (515) 954-2218</span>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Telegram:</span>

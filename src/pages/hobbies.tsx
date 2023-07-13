@@ -21,13 +21,13 @@ const Hobbies: NextPage = () =>
                 <meta name='author' content='IntelligentQuantum'/>
 
                 <meta property='og:type' content='website'/>
-                <meta property='og:url' content='https://intelligentquantum.dev/hobbies'/>
+                <meta property='og:url' content='https://andrewultimate.dev/hobbies'/>
                 <meta property='og:title' content='IntelligentQuantum'/>
                 <meta property='og:description' content='IntelligentQuantum Hobbies'/>
-                <meta property='og:image' content='https://intelligentquantum.dev/favicon.png'/>
+                <meta property='og:image' content='https://andrewultimate.dev/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
-                <meta property='twitter:url' content='https://intelligentquantum.dev/hobbies'/>
+                <meta property='twitter:url' content='https://andrewultimate.dev/hobbies'/>
                 <meta property='twitter:title' content='IntelligentQuantum'/>
                 <meta property='twitter:description' content='IntelligentQuantum Hobbies'/>
 

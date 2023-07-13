@@ -7,9 +7,9 @@ const Footer = () =>
     return (
         <footer className={styles.footer}>
             <div className={styles.footerBox}>
-                <span>© 2021 - { new Date().getFullYear() } IntelligentQuantum</span>
+                <span>© 2021 - { new Date().getFullYear() } UnlimitedPotential LLC</span>
                 <a
-                    href='https://github.com/IntelligentQuantum/IntelligentQuantum.github.io'
+                    href='https://github.com/blue0316/my-portfolio'
                     target='_blank'
                     rel='noreferrer'
                 >

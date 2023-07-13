@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img width="200px" src="https://raw.githubusercontent.com/intelligentquantum/intelligentquantum.github.io/main/public/favicon.png" alt="IntelligentQuantum Hamed"/>
+    <img width="200px" src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/public/favicon.png" alt="Andrew Stark"/>
     <br/>
     My Personal Website - Portfolio
 </h1>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/intelligentquantum/intelligentquantum.github.io/main/README.png" alt="IntelligentQuantum Hamed"/>
+    <img src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/README.png" alt="Andrew Stark"/>
 </div>
 
 <h3 align="center">
@@ -20,7 +20,7 @@ I value keeping my site open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [IntelligentQuantum.Dev](https://IntelligentQuantum.Dev). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [AndrewUltimate.Dev](https://andrewultimate.dev). Thanks!
 
 ## 🛠 Installation & Set Up
 
@@ -57,4 +57,4 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [In
    ```
 
 ## ⚠️ License & 📝 Credits
-IntelligentQuantum.Dev is open-source portfolio-website licensed under the MIT General Public License v3.0. created by [@IntelligentQuantum](https://github.com/IntelligentQuantum) & [@im-parsa](https://github.com/im-parsa).
+AndrewUltimate.Dev is open-source portfolio-website licensed under the MIT General Public License v3.0. created by [@AndrewUltimate](https://github.com/blue0316) & [@im-parsa](https://github.com/im-parsa).

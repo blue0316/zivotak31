@@ -38,7 +38,7 @@ const Aside = () =>
                 <span className={styles.asideUserImageContainer}>
                     <Image
                         className={styles.asideUserImage}
-                        src='/images/IntelligentQuantum.jpg'
+                        src='/images/my-image.jpg'
                         alt='IntelligentQuantum'
                         width={100}
                         height={100}
@@ -48,7 +48,7 @@ const Aside = () =>
 
                 <div className={styles.asideUserInfoContainer}>
                     <Link href='/' className={styles.asideUserName}>
-                        IntelligentQuantum
+                        Andrew Winchester Stark
                     </Link>
                     <span className={styles.asideUserTitle}>{t('common:aside.0.userTitle')}</span>
                     <span className={styles.asideUserTitle}>{t('common:aside.1.userSubtitle')}</span>
@@ -78,15 +78,15 @@ const Aside = () =>
                 <ul className={styles.asideInformationPersonalList}>
                     <li className={styles.asideInformationPersonalListItem}>
                         <span>{t('common:aside.2.residence')}:</span>
-                        <span>Iran</span>
+                        <span>United States</span>
                     </li>
                     <li className={styles.asideInformationPersonalListItem}>
                         <span>{t('common:aside.3.city')}:</span>
-                        <span>Shiraz</span>
+                        <span>Austin, TX</span>
                     </li>
                     <li className={styles.asideInformationPersonalListItem}>
                         <span>{t('common:aside.4.age')}:</span>
-                        <span>{new Date().getFullYear() - 1997}</span>
+                        <span>{new Date().getFullYear() - 1995}</span>
                     </li>
                 </ul>
 
@@ -99,13 +99,13 @@ const Aside = () =>
                             <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831' strokeDasharray='100, 100'/>
                             <text x='18' y='20.35'>100%</text>
                         </svg>
-                        <span>{t('common:aside.5.persian')}</span>
+                        <span>{t('common:aside.5.chinese')}</span>
                     </div>
                     <div className={styles.asideInformationPersonalLanguagesContent}>
                         <svg viewBox='0 0 36 36'>
                             <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831'/>
                             <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831' strokeDasharray='50, 100'/>
-                            <text x='18' y='20.35'>50%</text>
+                            <text x='18' y='20.35'>80%</text>
                         </svg>
                         <span>{t('common:aside.6.english')}</span>
                     </div>
@@ -165,19 +165,19 @@ const Aside = () =>
             </div>
 
             <div className={styles.asideFooter}>
-                <a href='https://www.instagram.com/intelligentquantum/'>
+                <a href='https://www.instagram.com/andrewultimate/' target='_blank'>
                     <BsInstagram />
                 </a>
-                <a href='https://dribbble.com/intelligentquantum'>
+                <a href='https://dribbble.com/andrewultimate' target='_blank'>
                     <BsDribbble />
                 </a>
-                <a href='https://twitter.com/IntelligentQM'>
+                <a href='https://twitter.com/IntelligentQM' target='_blank'>
                     <BsTwitter />
                 </a>
-                <a href='https://github.com/intelligentquantum'>
+                <a href='https://github.com/blue0316' target='_blank'>
                     <BsGithub />
                 </a>
-                <a href='https://www.linkedin.com/in/IntelligentQuantum/'>
+                <a href='https://www.linkedin.com/in/andrew-stark-sharp/' target='_blank'>
                     <BsLinkedin />
                 </a>
             </div>
