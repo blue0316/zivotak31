@@ -8,7 +8,7 @@
         { "residence": "Residence" },
         { "city": "City" },
         { "age": "Age" },
-        { "persian": "Persian" },
+        { "chinese": "Chinese" },
         { "english": "English" },
         { "german": "German" },
         { "download": "DOWNLOAD CV" }
