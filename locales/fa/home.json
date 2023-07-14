@@ -2,55 +2,55 @@
     "test": "Test",
     "typed":
     [
-        { "desktop": "I build desktop, mobile applications." },
-        { "web": "I build web interfaces." },
-        { "restfull": "I build RESTFUL and GraphQL APIs." },
-        { "games": "I build games with Unreal, Frostbite and Unity engines." },
-        { "cyber": "I am cyber security enthusiast." },
-        { "languages": "I am JavaScripts, TypeScript, and Python developer." },
-        { "frontend": "I am ReactJS and NextJS developer." },
-        { "backend": "I am NodeJS, DenoJS, NestJS and Poco developer." },
-        { "cross": "I am Electron, React Native and Qt developer." }
+        { "desktop": "Je crée des applications de bureau et mobiles." },
+        { "web": "Je construis des interfaces web." },
+        { "restfull": "Je construis des API RESTFUL et GraphQL." },
+        { "games": "Je crée des jeux avec les moteurs Unreal, Frostbite et Unity." },
+        { "cyber": "Je suis un passionné de cybersécurité." },
+        { "languages": "Je suis développeur JavaScript, TypeScript et Python." },
+        { "frontend": "Je suis développeur ReactJS et NextJS." },
+        { "backend": "Je suis développeur NodeJS, DenoJS, NestJS et Poco." },
+        { "cross": "Je suis développeur Electron, React Native et Qt." }
     ],
     "headers":
     [
-        { "heading": "What do i make Or am i?" },
-        { "customers": "Happy Customers" },
-        { "projects": "Completed Projects" },
-        { "experience": "Years Experience" },
-        { "honors": "Honors and Awards" }
+        { "heading": "Qu'est-ce que je fais et qui suis-je ?" },
+        { "customers": "Clients satisfaits" },
+        { "projects": "Projets terminés" },
+        { "experience": "Années d'expérience" },
+        { "honors": "Honneurs et récompenses" }
     ],
     "about":
     [
-        { "heading": "About me" },
-        { "paragraph": "Andrew is a big enthusiast of unsolved problems and a highly qualified software engineer with more than five years of experience with web, mobile, and software development working for companies from small startups to big ones. He enjoys working with people, is not afraid of changes, is very good at interpersonal skills, and is always open to new challenges. He has experience working with PHP and Python as well as their frameworks such as Poco and Qt, but he focuses on JavaScript-related technologies like Typescript, NodeJS, DenoJS, NestJS, NextJS, React and React Native." },
-        { "fat": "Frameworks and Technologies" }
+        { "heading": "À propos de moi" },
+        { "paragraph": "Andrew est un grand passionné de problèmes non résolus et un ingénieur logiciel hautement qualifié avec plus de neuf ans d'expérience dans le web, le mobile, le développement de logiciels et les produits web3 travaillant pour des entreprises allant des petites startups aux grandes.\nIl aime travailler avec les gens, n'a pas peur des changements, est très doué pour les relations interpersonnelles et est toujours ouvert aux nouveaux défis. Il a de l'expérience avec PHP et Python ainsi qu'avec leurs frameworks tels que Poco et Qt, mais il se concentre sur JavaScript- technologies connexes telles que Typescript, NodeJS, DenoJS, NestJS, NextJS, React et React Native." },
+        { "fat": "Cadres et technologies" }
     ],
     "services":
     [
         {
-            "title": "Front-End Development",
-            "description": "Front-end web development is the development of the graphical user interface of a website, through the use of HTML, ReactJS and NextJS, so that users can view and interact with that website."
+            "title": "Développement Front-End",
+            "description": "Le développement Web front-end est le développement de l'interface utilisateur graphique d'un site Web, grâce à l'utilisation de HTML, ReactJS et NextJS, afin que les utilisateurs puissent visualiser et interagir avec le site Web."
         },
         {
-            "title": "Back-End Development",
-            "description": "Back-end development means working on server-side software, which focuses on everything you can not see on a website based on NodeJS, DenoJS, NestJS, NextJS and Poco."
+            "title": "Développement Back-End",
+            "description": "Le développement back-end signifie travailler côté serveur du logiciel, qui se concentre sur tout ce que vous ne pouvez pas voir sur un site Web basé sur NodeJS, DenoJS, NestJS, NextJS et Poco."
         },
         {
-            "title": "Cross-Platform Development",
-            "description": "Cross-platform development is the practice of developing software products or services for multiple platforms such as Windows, Linux, macOS, Android, iOS, or software environments based on Electron, React Native and Qt."
+            "title": "Développement multiplateforme",
+            "description": "Le développement multiplateforme consiste à développer des produits ou services logiciels pour plusieurs plates-formes telles que Windows, Linux, macOS, Android, iOS ou des environnements logiciels basés sur Electron, React Native et Python."
         },
         {
-            "title": "Game Development",
-            "description": "Game Development is the art of creating games and describes the design, development and release of a game with Unreal, Frostbite and Unity engines. It may involve concept generation, design, build, test and release."
+            "title": "Développement de jeux",
+            "description": "Le développement de jeux est l'art de créer des jeux et décrit la conception, le développement et la sortie d'un jeu avec les moteurs Unreal, Frostbite et Unity. Cela peut impliquer la génération de concepts, la conception, la construction, le test et la sortie."
         },
         {
-            "title": "Cyber-Security",
-            "description": "In the digital world, our data is secure as long as we are aware. Most hacks that happen are primarily social engineering attacks in which the human psychology is exploited using data that is put up consciously by people on social media."
+            "title": "Cyber-sécurité",
+            "description": "Dans le monde numérique, nos données sont sécurisées aussi longtemps que nous le savons. La plupart des piratages qui se produisent sont principalement des attaques d'ingénierie sociale dans lesquelles la psychologie humaine est exploitée à l'aide de données consciemment mises en ligne par des personnes sur les réseaux sociaux ."
         },
         {
-            "title": "Search Engine Optimization",
-            "description": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic."
+            "title": "Optimisation pour les moteurs de recherche",
+            "description": "L'optimisation des moteurs de recherche est le processus d'amélioration de la qualité et de la quantité du trafic d'un site Web vers un site Web ou une page Web à partir de moteurs de recherche. Le référencement cible le trafic non rémunéré plutôt que le trafic direct ou le trafic payant."
         },
         { "heading": "Services" }
     ]

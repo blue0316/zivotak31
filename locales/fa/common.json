@@ -1,16 +1,16 @@
 {
-    "explore": "EXPLORE MORE",
-    "order": "ORDER NOW",
+    "explore": "EXPLORER PLUS",
+    "order": "COMMANDER MAINTENANT",
     "aside":
     [
-        { "userTitle": "Full-Stack Developer" },
-        { "userSubtitle": "UI/UX Designer" },
-        { "residence": "Residence" },
-        { "city": "City" },
-        { "age": "Age" },
-        { "chinese": "Chinese" },
-        { "english": "English" },
-        { "german": "German" },
-        { "download": "DOWNLOAD CV" }
+        { "userTitle": "FDéveloppeur Web & Mobile Full-Stack" },
+        { "userSubtitle": "Ingénieur DevOps/IA" },
+        { "residence": "Résidence" },
+        { "city": "Ville" },
+        { "age": "Âge" },
+        { "chinese": "Chinois" },
+        { "english": "Anglais" },
+        { "german": "Allemand" },
+        { "download": "TÉLÉCHARGER CV" }
     ]
 }
