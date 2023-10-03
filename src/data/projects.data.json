@@ -64,7 +64,7 @@
         {
             "id": 4,
             "category": "Web",
-            "image": "/images/projects/web-mrcheat.png",
+            "image": "/images/projects/web-mrcheat.jpg",
             "title": "MrCheat",
             "description": "Creating, developing and selling all kinds of cheats and cheats in various games such as Counter, Zula, CS Go and most other shooter games",
             "link": "https://mrcheat.cc/"
@@ -88,7 +88,7 @@
         {
             "id": 7,
             "category": "App",
-            "image": "/images/projects/pynk-app.png",
+            "image": "/images/projects/pynk-app.jpg",
             "title": "Pynk Dating Mobile App",
             "description": "Pynk Dating is a cutting-edge dating application developed in Flutter, designed specifically for social influencers.",
             "link": ""
@@ -128,7 +128,7 @@
         {
             "id": 12,
             "category": "App",
-            "image": "/images/projects/omia-app.png",
+            "image": "/images/projects/omia-app.jpg",
             "title": "OMIA Marketplace iOS Marketplace",
             "description": "OMIA is a unique twist on e-commerce integrating the concepts of drop shipping and direct sales into one marketplace.",
             "link": "https://apps.apple.com/app/vendevery/id1586836465"
@@ -160,7 +160,7 @@
         {
             "id": 16,
             "category": "Web",
-            "image": "/images/projects/web-azerothcore.png",
+            "image": "/images/projects/web-azerothcore.jpg",
             "title": "AzerothCore API",
             "description": "World of Warcraft Restful API for developers",
             "link": "https://github.com/azerothcore/acore-api"
@@ -168,7 +168,7 @@
         {
             "id": 17,
             "category": "Graphic",
-            "image": "/images/projects/graphic-iq.png",
+            "image": "/images/projects/graphic-iq.jpg",
             "title": "IQ Portfolio",
             "description": "Personal Portfolio it designed with Figma",
             "link": ""
@@ -176,7 +176,7 @@
         {
             "id": 18,
             "category": "Game",
-            "image": "/images/projects/game-trinitycore.png",
+            "image": "/images/projects/game-trinitycore.jpg",
             "title": "TrinityCore World Of Warcraft",
             "description": "TrinityCore is an MMORPG framework that's built using Python, and using a back-end of MySQL for the DB content.",
             "link": "https://github.com/TrinityCore/TrinityCore/"
@@ -184,7 +184,7 @@
         {
             "id": 19,
             "category": "Game",
-            "image": "/images/projects/game-azerothcore.png",
+            "image": "/images/projects/game-azerothcore.jpg",
             "title": "AzerothCore World Of Warcraft",
             "description": "AzerothCore (AC) is an open-source game-server application for World of Warcraft, currently supporting the 3.3.5a game version.",
             "link": "https://github.com/azerothcore/azerothcore-wotlk/"
@@ -192,7 +192,7 @@
         {
             "id": 20,
             "category": "Web",
-            "image": "/images/projects/web-coineie.png",
+            "image": "/images/projects/web-coineie.jpg",
             "title": "Coineie",
             "description": "At CoinEIE, we believe that everyone should be able to earn, hold, spend, share and give their money!",
             "link": "https://coineie.com/"
@@ -200,7 +200,7 @@
         {
             "id": 21,
             "category": "Web",
-            "image": "/images/projects/web-mimicexpo.png",
+            "image": "/images/projects/web-mimicexpo.jpg",
             "title": "Mimic Expo",
             "description": "In Mimic Expo, you can observe various events. Be with different people in different positions and gain. The most experience in a metaverse way.",
             "link": "https://mimicexpo.com/"
@@ -208,7 +208,7 @@
         {
             "id": 22,
             "category": "Web",
-            "image": "/images/projects/web-mimicplace.png",
+            "image": "/images/projects/web-mimicplace.jpg",
             "title": "Mimic Place",
             "description": "Multichain DeFi Web 3.0 Ecosystem. The next generation gaming ecosystem for ITOs and NFT market.",
             "link": "https://mimic.place/"
@@ -216,7 +216,7 @@
         {
             "id": 23,
             "category": "Web",
-            "image": "/images/projects/web-bigotop.png",
+            "image": "/images/projects/web-bigotop.jpg",
             "title": "Bigo Top",
             "description": "Bigo Top is the safest and fastest online store for buying bigolive and like diamonds, which is fully automatically provided to customers.",
             "link": "https://bigotop.com/"
@@ -224,7 +224,7 @@
         {
             "id": 24,
             "category": "Web",
-            "image": "/images/projects/web-mimicschool.png",
+            "image": "/images/projects/web-mimicschool.jpg",
             "title": "Mimic Metaverse School",
             "description": "The first metaverse school in the world. Whether you are looking for language courses, esoteric courses, computer courses, or any other specialized courses, Mimic school has a wide range of courses available for all age ranges based on metaverse platform.",
             "link": "https://mimicmetaschool.com/"
@@ -232,7 +232,7 @@
         {
             "id": 25,
             "category": "Web",
-            "image": "/images/projects/web-infinity.png",
+            "image": "/images/projects/web-infinity.jpg",
             "title": "Infinity RP",
             "description": "The Infinity Roleplay server is one of the newest and best RP servers in USA at the moment, which is managed by experienced people on the FiveM platform.",
             "link": "https://infinity-tm.net/"
