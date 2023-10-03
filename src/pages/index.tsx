@@ -66,11 +66,11 @@ const Home: NextPage = (props: any) => {
 
                     <div className={styles.homeHeaderLogs}>
                         <div className={styles.homeHeaderLogsBox}>
-                            <span className={styles.homeHeaderLogsBoxNumber}>194+</span>
+                            <span className={styles.homeHeaderLogsBoxNumber}>97+</span>
                             <p className={styles.homeHeaderLogsBoxParagraph}>{t('home:headers.1.customers')}</p>
                         </div>
                         <div className={styles.homeHeaderLogsBox}>
-                            <span className={styles.homeHeaderLogsBoxNumber}>200+</span>
+                            <span className={styles.homeHeaderLogsBoxNumber}>176+</span>
                             <p className={styles.homeHeaderLogsBoxParagraph}>{t('home:headers.2.projects')}</p>
                         </div>
                         <div className={styles.homeHeaderLogsBox}>
@@ -78,7 +78,7 @@ const Home: NextPage = (props: any) => {
                             <p className={styles.homeHeaderLogsBoxParagraph}>{t('home:headers.3.experience')}</p>
                         </div>
                         <div className={styles.homeHeaderLogsBox}>
-                            <span className={styles.homeHeaderLogsBoxNumber}>30+</span>
+                            <span className={styles.homeHeaderLogsBoxNumber}>12+</span>
                             <p className={styles.homeHeaderLogsBoxParagraph}>{t('home:headers.4.honors')}</p>
                         </div>
                     </div>
