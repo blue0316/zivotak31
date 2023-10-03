@@ -4,7 +4,8 @@ source: 'NextJS'
 date: '2020-01-01'
 category: 'educational'
 title: 'Getting Started with Next.js'
-image: 'AndrewUltimate.jpg'
+image: 'blog-cover-01.png'
+bgColor: '#C7D8D3'
 excerpt: 'This is a short description of the article.'
 ---
 

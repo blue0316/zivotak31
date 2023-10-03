@@ -99,7 +99,7 @@ const Aside = () =>
                             <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831' strokeDasharray='100, 100'/>
                             <text x='18' y='20.35'>100%</text>
                         </svg>
-                        <span>{t('common:aside.5.chinese')}</span>
+                        <span>{t('common:aside.5.finnish')}</span>
                     </div>
                     <div className={styles.asideInformationPersonalLanguagesContent}>
                         <svg viewBox='0 0 36 36'>
@@ -112,8 +112,8 @@ const Aside = () =>
                     <div className={styles.asideInformationPersonalLanguagesContent}>
                         <svg viewBox='0 0 36 36'>
                             <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831'/>
-                            <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831' strokeDasharray='30, 100'/>
-                            <text x='18' y='20.35'>30%</text>
+                            <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831' strokeDasharray='60, 100'/>
+                            <text x='18' y='20.35'>60%</text>
                         </svg>
                         <span>{t('common:aside.7.german')}</span>
                     </div>
@@ -158,7 +158,7 @@ const Aside = () =>
 
                 <div className={styles.aside__divider} />
 
-                <a href='src/components/layouts/aside/aside.component#' className={styles.asideInformationCV}>
+                <a href='/resume.pdf' download className={styles.asideInformationCV}>
                     <CgSoftwareDownload />
                     <span>{t('common:aside.8.download')}</span>
                 </a>

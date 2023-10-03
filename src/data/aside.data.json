@@ -27,9 +27,45 @@
         },
         {
             "id": 5,
+            "name": "Dart",
+            "progress": "90%",
+            "progressActive": "90%"
+        },
+        {
+            "id": 6,
+            "name": "Solidity",
+            "progress": "90%",
+            "progressActive": "90%"
+        },
+        {
+            "id": 7,
+            "name": "Rust",
+            "progress": "89%",
+            "progressActive": "89%"
+        },
+        {
+            "id": 8,
+            "name": "PHP",
+            "progress": "88%",
+            "progressActive": "88%"
+        },
+        {
+            "id": 9,
             "name": "Python",
             "progress": "85%",
             "progressActive": "85%"
+        },
+        {
+            "id": 10,
+            "name": "Ruby",
+            "progress": "82%",
+            "progressActive": "82%"
+        },
+        {
+            "id": 11,
+            "name": "C#",
+            "progress": "82%",
+            "progressActive": "82%"
         }
     ],
     "libraries":
@@ -48,7 +84,7 @@
         },
         {
             "id": 4,
-            "names": "Electron, QT"
+            "names": "Wordpress, Shopify, Webflow"
         },
         {
             "id": 5,
@@ -60,15 +96,19 @@
         },
         {
             "id": 7,
-            "names": "Boost, Poco, Curl"
-        },
-        {
-            "id": 8,
             "names": "Python, GoLang, Ruby"
         },
         {
+            "id": 8,
+            "names": "Keras, TensorFlow, SciKit"
+        },
+        {
             "id": 9,
-            "names": "Keras, TensorFlow, SciKIT"
+            "names": "Electron, QT"
+        },
+        {
+            "id": 10,
+            "names": "Boost, Poco, Curl"
         }
     ]
 }

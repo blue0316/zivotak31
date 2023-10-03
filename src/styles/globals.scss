@@ -1,4 +1,4 @@
-// @import url("theme");
+@import "theme";
 
 *,
 *::before,
@@ -62,6 +62,7 @@ h6
 .markdown-body pre,
 .markdown-body table tr
 {
+    color: var(--color-base-text) !important;
     background-color: transparent !important;
 }
 

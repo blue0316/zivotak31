@@ -1,4 +1,4 @@
-import { Fragment, useRef } from 'react';
+import { Fragment, useEffect, useRef } from 'react';
 import type { GetStaticProps, NextPage } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
@@ -22,8 +22,7 @@ import ServiceCard from '@/components/pages/home/service-card/service-card.compo
 import 'swiper/css';
 import styles from '@/styles/home.module.scss';
 
-const Home: NextPage = (props: any) =>
-{
+const Home: NextPage = (props: any) => {
     const { t } = useTranslation();
     const prevRef = useRef(null);
     const nextRef = useRef(null);
@@ -40,6 +39,8 @@ const Home: NextPage = (props: any) =>
         t('home:typed.8.cross'),
     ]);
 
+    useEffect(() => { console.log(props) }, []);
+
     return (
         <Fragment>
             <Head>
@@ -54,7 +55,7 @@ const Home: NextPage = (props: any) =>
 
                         <div className={styles.homeHeaderContentDescription}>
                             <div>&lt;<i>code</i>&gt;</div>
-                            <span>{ typed }</span>
+                            <span>{typed}</span>
                             <div>&lt;/<i>code</i>&gt;</div>
                         </div>
 
@@ -96,8 +97,7 @@ const Home: NextPage = (props: any) =>
 
                             <ul className={styles.homeAboutFATItemListLogo}>
                                 {
-                                    home.fats.frontend.map(front =>
-                                    {
+                                    home.fats.frontend.map(front => {
                                         return (
                                             <Tooltip key={front.id} content={front.name}>
                                                 <li key={front.id} className={styles.homeAboutFATItemListLogoItem}>
@@ -118,8 +118,7 @@ const Home: NextPage = (props: any) =>
                             <h5>Back-End:</h5>
                             <ul className={styles.homeAboutFATItemListLogo}>
                                 {
-                                    home.fats.backend.map(back =>
-                                    {
+                                    home.fats.backend.map(back => {
                                         return (
                                             <Tooltip key={back.id} content={back.name}>
                                                 <li key={back.id} className={styles.homeAboutFATItemListLogoItem}>
@@ -141,8 +140,7 @@ const Home: NextPage = (props: any) =>
 
                             <ul className={styles.homeAboutFATItemListLogo}>
                                 {
-                                    home.fats.crossPlatforms.map(cross =>
-                                    {
+                                    home.fats.crossPlatforms.map(cross => {
                                         return (
                                             <Tooltip key={cross.id} content={cross.name}>
                                                 <li key={cross.id} className={styles.homeAboutFATItemListLogoItem}>
@@ -165,8 +163,7 @@ const Home: NextPage = (props: any) =>
                 <h4 className={styles.homeHeadingPrimary}>{t('home:services.6.heading')}</h4>
                 <div className={styles.homeServices}>
                     {
-                        home.services.map(service =>
-                        {
+                        home.services.map(service => {
                             return (
                                 <ServiceCard
                                     key={service.id}
@@ -188,7 +185,7 @@ const Home: NextPage = (props: any) =>
                             prevEl: nextRef.current,
                             nextEl: prevRef.current,
                         }}
-                        spaceBetween={ 20 }
+                        spaceBetween={20}
                         breakpoints={{
                             0: { slidesPerView: 1 },
                             650: { slidesPerView: 2 },
@@ -196,8 +193,7 @@ const Home: NextPage = (props: any) =>
                         }}
                     >
                         {
-                            props.repositories.map((repository: any) =>
-                            {
+                            props.repositories.map((repository: any) => {
                                 return (
                                     <SwiperSlide key={repository.id}>
                                         <RepositoryCard
@@ -206,10 +202,10 @@ const Home: NextPage = (props: any) =>
                                             stars={repository.stargazers_count}
                                             watchers={repository.watchers_count}
                                             forks={repository.forks}
-                                            repoLink={`https://github.com/${ repository.owner.login }/${ repository.name }`}
-                                            starLink={`https://github.com/${ repository.owner.login }/${ repository.name }/stargazers`}
-                                            watchLink={`https://github.com/${ repository.owner.login }/${ repository.name }/watchers`}
-                                            forkLink={`https://github.com/${ repository.owner.login }/${ repository.name }/network/member`}
+                                            repoLink={`https://github.com/${repository.owner.login}/${repository.name}`}
+                                            starLink={`https://github.com/${repository.owner.login}/${repository.name}/stargazers`}
+                                            watchLink={`https://github.com/${repository.owner.login}/${repository.name}/watchers`}
+                                            forkLink={`https://github.com/${repository.owner.login}/${repository.name}/network/member`}
                                         />
                                     </SwiperSlide>
                                 );
@@ -227,7 +223,7 @@ const Home: NextPage = (props: any) =>
                         modules={[Keyboard, Autoplay]}
                         keyboard={{ enabled: true }}
                         autoplay={{ delay: 2500, disableOnInteraction: false }}
-                        spaceBetween={ 20 }
+                        spaceBetween={20}
                         breakpoints={{
                             0: { slidesPerView: 1 },
                             450: { slidesPerView: 2 },
@@ -236,8 +232,7 @@ const Home: NextPage = (props: any) =>
                         }}
                     >
                         {
-                            props.organizations.map((organization: any) =>
-                            {
+                            props.organizations.map((organization: any) => {
                                 return (
                                     <SwiperSlide style={{ display: 'flex', justifyContent: 'space-evenly' }} key={organization.node_id}>
                                         <OrganizationCard
@@ -255,10 +250,9 @@ const Home: NextPage = (props: any) =>
     );
 };
 
-export const getStaticProps: GetStaticProps = async() =>
-{
-    const repositories = await axios.get('https://api.github.com/users/AndrewUltimate/repos');
-    const organizations = await axios.get('https://api.github.com/users/AndrewUltimate/orgs');
+export const getStaticProps: GetStaticProps = async () => {
+    const repositories = await axios.get('https://api.github.com/users/blue0316/repos');
+    const organizations = await axios.get('https://api.github.com/users/blue0316/orgs');
 
     if (!repositories.data || !organizations.data)
         return { notFound: true };

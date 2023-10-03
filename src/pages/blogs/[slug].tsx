@@ -34,6 +34,10 @@ const BlogSlug: NextPage = (props: any) =>
                         className={styles.blogsBlogSlugHeadImage}
                         width={500}
                         height={500}
+                        color={props.blog.bgColor}
+                        style={{
+                            backgroundColor: props.blog.bgColor
+                        }}
                     />
                 </div>
 

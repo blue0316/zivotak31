@@ -76,15 +76,15 @@ const Contact: NextPage = () =>
                         <ul className={styles.contactCardsCardList}>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Gmail:</span>
-                                <a href="mailto:andrewultimate0316@gmail.com">AndrewUltimate</a>
+                                <a href="mailto:andrewultimate0316@gmail.com">andrewultimate0316@gmail.com</a>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>ProtonMail:</span>
-                                <a href="mailto:andrewjin0316@proton.me">AndrewUltimate</a>
+                                <a href="mailto:andrewjin0316@proton.me">andrewjin0316@proton.me</a>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Discord:</span>
-                                <span></span>
+                                <span>_gruguru</span>
                             </li>
                         </ul>
                     </div>
@@ -96,11 +96,11 @@ const Contact: NextPage = () =>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Whatsapp:</span>
-                                <span>+1 (515) 954-2218</span>
+                                <span>+1 (219) 779-7870</span>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Telegram:</span>
-                                <span>+</span>
+                                <span>@devbrainy</span>
                             </li>
                         </ul>
                     </div>

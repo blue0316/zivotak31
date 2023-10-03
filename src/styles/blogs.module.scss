@@ -1,18 +1,15 @@
-.blogs
-{
+.blogs {
     position: relative;
     z-index: 99;
 
-    &Heading
-    {
+    &Heading {
         font-size: 1.7rem;
         font-weight: 600;
         padding: 3rem;
         color: var(--color-base-text-bold) !important;
     }
 
-    &Cards
-    {
+    &Cards {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
         grid-gap: 2rem;
@@ -20,43 +17,39 @@
         padding: 0 3rem;
         margin-bottom: 2rem;
 
-        &Card
-        {
+        &Card {
             background: var(--base-lighter);
             overflow: hidden;
 
             width: 40rem;
 
-            &Image
-            {
+            &Image {
                 display: flex;
                 justify-content: center;
                 align-items: center;
 
+                object-fit: contain;
+
                 width: 100%;
             }
 
-            &Content
-            {
+            &Content {
                 padding: 3rem;
 
-                &Title
-                {
+                &Title {
                     font-size: 1.5rem;
                     font-weight: 600;
                     color: var(--color-base-text-bold);
                 }
 
-                &Paragraph
-                {
+                &Paragraph {
                     color: var(--color-base-text);
                     font-size: 1.25rem;
                     font-weight: 400;
                     margin: 1.3rem 0 2rem;
                 }
 
-                &Button
-                {
+                &Button {
                     display: flex;
                     align-items: center;
 
@@ -64,24 +57,21 @@
 
                     &,
                     &:link,
-                    &:visited
-                    {
+                    &:visited {
                         color: var(--color-primary);
                         letter-spacing: 1.5px;
                         font-weight: 600;
                         font-size: 1.1rem;
                     }
 
-                    svg
-                    {
+                    svg {
                         height: 1.5rem;
                         width: 1.5rem;
                         fill: var(--color-primary);
                         transition: all 0.2s;
                     }
 
-                    &:hover svg
-                    {
+                    &:hover svg {
                         margin-left: 0.4rem;
                     }
                 }
@@ -90,25 +80,21 @@
     }
 
     // Blog Slug Page
-    &BlogSlug
-    {
-        &Title
-        {
+    &BlogSlug {
+        &Title {
             display: flex;
             align-items: center;
             justify-content: space-between;
             padding-right: 3rem;
 
-            @media only screen and (width <= 600px)
-            {
+            @media only screen and (width <= 600px) {
                 flex-direction: column;
                 padding-right: 0;
                 margin-bottom: 2rem;
                 width: 100%;
             }
 
-            & span
-            {
+            & span {
                 display: inline;
                 color: var(--color-base-text-bold);
                 background: var(--base-dark);
@@ -117,16 +103,16 @@
             }
         }
 
-        &HeadBox
-        {
+        &HeadBox {
             display: grid;
             place-items: center;
         }
 
-        &HeadImage
-        {
+        &HeadImage {
             position: relative;
             padding: 0 3rem;
+
+            object-fit: contain;
 
             width: 100%;
             height: 50rem;
@@ -134,14 +120,12 @@
             margin-bottom: 2rem;
         }
 
-        &Article
-        {
+        &Article {
             display: flex;
             flex-direction: row-reverse;
             grid-gap: 2rem;
 
-            @media only screen and (width <= 1500px)
-            {
+            @media only screen and (width <= 1500px) {
                 flex-direction: column;
             }
 
@@ -149,8 +133,7 @@
             margin-bottom: 2rem;
             overflow: hidden;
 
-            &Author
-            {
+            &Author {
                 flex: 0 0 30.6%;
 
                 width: 100%;
@@ -160,23 +143,19 @@
                 background: var(--base-light);
                 color: var(--color-base-text);
 
-                ul
-                {
-                    li
-                    {
+                ul {
+                    li {
                         display: flex;
                         justify-content: space-between;
 
-                        &:not(:last-child)
-                        {
+                        &:not(:last-child) {
                             margin-bottom: 2rem;
                         }
                     }
                 }
             }
 
-            &Content
-            {
+            &Content {
                 flex: 0 0 68%;
                 overflow: hidden;
 
@@ -184,7 +163,6 @@
                 font-weight: 500;
                 font-size: 1.5rem;
                 background: var(--base-light);
-                color: var(--color-base-text-bold);
             }
         }
     }

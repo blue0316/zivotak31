@@ -32,6 +32,10 @@ const Blogs: NextPage = (props: any) =>
                                         className={styles.blogsCardsCardImage}
                                         width={500}
                                         height={500}
+                                        color={blog.bgColor}
+                                        style={{
+                                            backgroundColor: blog.bgColor
+                                        }}
                                     />
 
                                     <div className={styles.blogsCardsCardContent}>
