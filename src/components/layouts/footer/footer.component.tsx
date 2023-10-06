@@ -14,7 +14,7 @@ const Footer = () =>
                     rel='noreferrer'
                 >
                     <BsGithub />
-                    Source Code
+                    {/* Source Code */}
                 </a>
             </div>
         </footer>
