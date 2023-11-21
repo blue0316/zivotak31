@@ -78,11 +78,11 @@ const Aside = () =>
                 <ul className={styles.asideInformationPersonalList}>
                     <li className={styles.asideInformationPersonalListItem}>
                         <span>{t('common:aside.2.residence')}:</span>
-                        <span>United States</span>
+                        <span>Finland</span>
                     </li>
                     <li className={styles.asideInformationPersonalListItem}>
                         <span>{t('common:aside.3.city')}:</span>
-                        <span>Austin, TX</span>
+                        <span>Helsinki, Uusimaa</span>
                     </li>
                     <li className={styles.asideInformationPersonalListItem}>
                         <span>{t('common:aside.4.age')}:</span>

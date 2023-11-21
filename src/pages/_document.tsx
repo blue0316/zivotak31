@@ -19,7 +19,7 @@ class IQDocument extends Document
                     <meta name='Classification' content='Portfolio'/>
                     <meta name='subject' content='Abdrew Stark Full-Stack Developer & Graphic Designer'/>
                     <meta name='description' content="Abdrew Stark Full-Stack Developer & Graphic Designer. Abdrew Stark focuses on JavaScript-related technologies like Typescript, NodeJS and React. Abdrew Stark is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."/>
-                    <meta name='keywords' content='Abdrew Stark, Abdrew Stark Portfolio, Full-Stack Developer, Developer, Austin, TX USA, JavaScript, TypeScript, Graphic Designer'/>
+                    <meta name='keywords' content='Abdrew Stark, Abdrew Stark Portfolio, Full-Stack Developer, Developer, Helsinki, Uusimaa Finland, JavaScript, TypeScript, Graphic Designer'/>
                     <meta name='author' content='Abdrew Stark'/>
 
                     <meta property='og:type' content='website'/>
