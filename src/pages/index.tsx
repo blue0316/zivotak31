@@ -136,6 +136,27 @@ const Home: NextPage = (props: any) => {
                             </ul>
                         </li>
                         <li className={styles.homeAboutFATItem}>
+                            <h5>CMS:</h5>
+                            <ul className={styles.homeAboutFATItemListLogo}>
+                                {
+                                    home.fats.cms.map(cms => {
+                                        return (
+                                            <Tooltip key={cms.id} content={cms.name}>
+                                                <li key={cms.id} className={styles.homeAboutFATItemListLogoItem}>
+                                                    <Image
+                                                        src={cms.src}
+                                                        alt={cms.alt}
+                                                        width={25}
+                                                        height={25}
+                                                    />
+                                                </li>
+                                            </Tooltip>
+                                        );
+                                    })
+                                }
+                            </ul>
+                        </li>
+                        <li className={styles.homeAboutFATItem}>
                             <h5>Cross-Platform:</h5>
 
                             <ul className={styles.homeAboutFATItemListLogo}>

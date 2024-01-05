@@ -1,6 +1,5 @@
 {
-    "services":
-    [
+    "services": [
         {
             "id": 1,
             "title": "home:services.0.title",
@@ -32,10 +31,8 @@
             "description": "home:services.5.description"
         }
     ],
-    "fats":
-    {
-        "frontend":
-        [
+    "fats": {
+        "frontend": [
             {
                 "id": 1,
                 "name": "HTML",
@@ -68,25 +65,24 @@
             },
             {
                 "id": 6,
+                "name": "SvelteKit",
+                "src": "/images/logos/logo-sveltekit.png",
+                "alt": "AndrewUltimate SvelteKit Logo"
+            },
+            {
+                "id": 7,
                 "name": "AngularJS",
                 "src": "/images/logos/logo-angular.png",
                 "alt": "AndrewUltimate AngularJS Logo"
             },
             {
-                "id": 7,
+                "id": 8,
                 "name": "VueJS",
                 "src": "/images/logos/logo-vue.png",
                 "alt": "AndrewUltimate VueJS Logo"
-            },
-            {
-                "id": 8,
-                "name": "NuxtJS",
-                "src": "/images/logos/logo-nuxt.png",
-                "alt": "AndrewUltimate NuxtJS Logo"
             }
         ],
-        "backend":
-        [
+        "backend": [
             {
                 "id": 1,
                 "name": "NodeJS",
@@ -124,8 +120,33 @@
                 "alt": "AndrewUltimate Ruby on rails Logo"
             }
         ],
-        "crossPlatforms":
-        [
+        "cms": [
+            {
+                "id": 1,
+                "name": "WordPress",
+                "src": "/images/logos/logo-wordpress.png",
+                "alt": "AndrewUltimate WordPress Logo"
+            },
+            {
+                "id": 2,
+                "name": "Webflow",
+                "src": "/images/logos/logo-webflow.png",
+                "alt": "AndrewUltimate Webflow Logo"
+            },
+            {
+                "id": 3,
+                "name": "Shopify",
+                "src": "/images/logos/logo-shopify.png",
+                "alt": "AndrewUltimate Shopify Logo"
+            },
+            {
+                "id": 4,
+                "name": "Squarespace",
+                "src": "/images/logos/logo-squarespace.png",
+                "alt": "AndrewUltimate Squarespace Logo"
+            }
+        ],
+        "crossPlatforms": [
             {
                 "id": 1,
                 "name": "ElectronJS",

@@ -38,7 +38,7 @@ const Aside = () =>
                 <span className={styles.asideUserImageContainer}>
                     <Image
                         className={styles.asideUserImage}
-                        src='/images/my-image.jpg'
+                        src='/images/my-image1.jpg'
                         alt='AndrewUltimate'
                         width={100}
                         height={100}
