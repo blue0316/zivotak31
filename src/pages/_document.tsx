@@ -17,27 +17,27 @@ class IQDocument extends Document
 
                     <meta name='language' content='en'/>
                     <meta name='Classification' content='Portfolio'/>
-                    <meta name='subject' content='Abdrew Stark Full-Stack Developer & Graphic Designer'/>
-                    <meta name='description' content="Abdrew Stark Full-Stack Developer & Graphic Designer. Abdrew Stark focuses on JavaScript-related technologies like Typescript, NodeJS and React. Abdrew Stark is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."/>
-                    <meta name='keywords' content='Abdrew Stark, Abdrew Stark Portfolio, Full-Stack Developer, Developer, Helsinki, Uusimaa Finland, JavaScript, TypeScript, Graphic Designer'/>
-                    <meta name='author' content='Abdrew Stark'/>
+                    <meta name='subject' content='Andrew Jin Full-Stack Developer & Graphic Designer'/>
+                    <meta name='description' content="Andrew Jin Full-Stack Developer & Graphic Designer. Andrew Jin focuses on JavaScript-related technologies like Typescript, NodeJS and React. Andrew Jin is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."/>
+                    <meta name='keywords' content='Andrew Jin, Andrew Jin Portfolio, Full-Stack Developer, Developer, Helsinki, Uusimaa Finland, JavaScript, TypeScript, Graphic Designer'/>
+                    <meta name='author' content='Andrew Jin'/>
 
                     <meta property='og:type' content='website'/>
-                    {/* <meta property='og:url' content='https://andrewultimate.dev/'/> */}
-                    <meta property='og:title' content='Andrew Stark'/>
-                    <meta property='og:description' content='Andrew Stark Full-Stack Developer & Graphic Designer'/>
-                    {/* <meta property='og:image' content='https://andrewultimate.dev/favicon.png'/> */}
+                    {/* <meta property='og:url' content='https://andrewultimate.me/'/> */}
+                    <meta property='og:title' content='Andrew Jin'/>
+                    <meta property='og:description' content='Andrew Jin Full-Stack Developer & Graphic Designer'/>
+                    {/* <meta property='og:image' content='https://andrewultimate.me/favicon.png'/> */}
 
                     <meta property='twitter:card'/>
-                    {/* <meta property='twitter:url' content='https://andrewultimate.dev/'/> */}
-                    <meta property='twitter:title' content='Andrew Stark'/>
-                    <meta property='twitter:description' content='Andrew Stark Full-Stack Developer & Graphic Designer'/>
-                    {/* <meta property='twitter:image' content='https://andrewultimate.dev/favicon.png'/> */}
+                    {/* <meta property='twitter:url' content='https://andrewultimate.me/'/> */}
+                    <meta property='twitter:title' content='Andrew Jin'/>
+                    <meta property='twitter:description' content='Andrew Jin Full-Stack Developer & Graphic Designer'/>
+                    {/* <meta property='twitter:image' content='https://andrewultimate.me/favicon.png'/> */}
 
                     <link rel='icon' href='/favicon.png' />
-                    {/* <link rel='apple-touch-icon' href='https://andrewultimate.dev/favicon.png'/> */}
-                    {/* <link rel='manifest' href='https://andrewultimate.dev/manifest.json'/>
-                    <link rel='canonical' href='https://andrewultimate.dev' /> */}
+                    {/* <link rel='apple-touch-icon' href='https://andrewultimate.me/favicon.png'/> */}
+                    {/* <link rel='manifest' href='https://andrewultimate.me/manifest.json'/>
+                    <link rel='canonical' href='https://andrewultimate.me' /> */}
                     <link rel='preconnect' href='https://fonts.googleapis.com' />
                     <link rel='preconnect' href='https://fonts.gstatic.com' crossOrigin='anonymous' />
                     <link href='https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet' />
@@ -49,16 +49,16 @@ class IQDocument extends Document
                             __html: JSON.stringify({
                                 '@context': 'https://schema.org/',
                                 '@type': 'Person',
-                                name: 'Andrew Stark',
+                                name: 'Andrew Jin',
                                 author:
                                 {
                                     '@type': 'Person',
-                                    name: 'Andrew Stark'
+                                    name: 'Andrew Jin'
                                 },
-                                email: 'mailto:andrewultimate0316@gmail.com',
-                                // image: 'https://andrewultimate.dev/images/AndrewUltimate.png',
+                                email: 'mailto:hello@andrewultimate.me',
+                                // image: 'https://andrewultimate.me/images/AndrewUltimate.png',
                                 jobTitle: 'Full-Stack Developer',
-                                // url: 'https://andrewultimate.dev'
+                                // url: 'https://andrewultimate.me'
                             })
                         }}
                     />

@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img width="200px" src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/public/favicon.png" alt="Andrew Stark"/>
+    <img width="200px" src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/public/favicon.png" alt="Andrew Jin"/>
     <br/>
     My Personal Website - Portfolio
 </h1>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/README.png" alt="Andrew Stark"/>
+    <img src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/README.png" alt="Andrew Jin"/>
 </div>
 
 <h3 align="center">

@@ -48,7 +48,7 @@ const Aside = () =>
 
                 <div className={styles.asideUserInfoContainer}>
                     <Link href='/' className={styles.asideUserName}>
-                        Andrew Winchester Stark
+                        Andrew Jin
                     </Link>
                     <span className={styles.asideUserTitle}>{t('common:aside.0.userTitle')}</span>
                     <span className={styles.asideUserTitle}>{t('common:aside.1.userSubtitle')}</span>
@@ -99,7 +99,7 @@ const Aside = () =>
                             <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831' strokeDasharray='100, 100'/>
                             <text x='18' y='20.35'>100%</text>
                         </svg>
-                        <span>{t('common:aside.5.finnish')}</span>
+                        <span>{t('common:aside.5.chinese')}</span>
                     </div>
                     <div className={styles.asideInformationPersonalLanguagesContent}>
                         <svg viewBox='0 0 36 36'>
@@ -164,7 +164,7 @@ const Aside = () =>
                 </a>
             </div>
 
-            <div className={styles.asideFooter}>
+            {/* <div className={styles.asideFooter}>
                 <a href='https://www.instagram.com/andrewultimate/' target='_blank'>
                     <BsInstagram />
                 </a>
@@ -177,10 +177,10 @@ const Aside = () =>
                 <a href='https://github.com/blue0316' target='_blank'>
                     <BsGithub />
                 </a>
-                <a href='https://www.linkedin.com/in/andrew-stark-sharp/' target='_blank'>
+                <a href='https://www.linkedin.com/in/andrew-jin-sharp/' target='_blank'>
                     <BsLinkedin />
                 </a>
-            </div>
+            </div> */}
         </aside>
     );
 };
