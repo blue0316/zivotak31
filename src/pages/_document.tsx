@@ -19,7 +19,7 @@ class IQDocument extends Document
                     <meta name='Classification' content='Portfolio'/>
                     <meta name='subject' content='Andrew Jin Full-Stack Developer & Graphic Designer'/>
                     <meta name='description' content="Andrew Jin Full-Stack Developer & Graphic Designer. Andrew Jin focuses on JavaScript-related technologies like Typescript, NodeJS and React. Andrew Jin is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."/>
-                    <meta name='keywords' content='Andrew Jin, Andrew Jin Portfolio, Full-Stack Developer, Developer, Helsinki, Uusimaa Finland, JavaScript, TypeScript, Graphic Designer'/>
+                    <meta name='keywords' content='Andrew Jin, Andrew Jin Portfolio, Full-Stack Developer, Developer, Central, Singapore, JavaScript, TypeScript, Graphic Designer'/>
                     <meta name='author' content='Andrew Jin'/>
 
                     <meta property='og:type' content='website'/>

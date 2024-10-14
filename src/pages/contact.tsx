@@ -60,11 +60,11 @@ const Contact: NextPage = () =>
                         <ul className={styles.contactCardsCardList}>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Residence:</span>
-                                <span>Finland</span>
+                                <span>Singapore</span>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>City:</span>
-                                <span>Helsinki, Uusimaa</span>
+                                <span>Central, Singapore</span>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Age:</span>
