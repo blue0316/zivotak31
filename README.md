@@ -58,18 +58,3 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [An
 
 ## ⚠️ License & 📝 Credits
 AndrewUltimate.Dev is open-source portfolio-website licensed under the MIT General Public License v3.0. created by [@AndrewUltimate](https://github.com/blue0316) & [@im-parsa](https://github.com/im-parsa).
-
-
-Street:  Norra Esplanaden 18
-
-City:  Helsinki
-
-State/province/area:   Uusimaa
-
-Phone number:  050 229 7634
-
-Zip code:  00380
-
-Country calling code:  +358
-
-Country:  Finland
