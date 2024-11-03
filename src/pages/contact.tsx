@@ -60,15 +60,15 @@ const Contact: NextPage = () =>
                         <ul className={styles.contactCardsCardList}>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Residence:</span>
-                                <span>Singapore</span>
+                                <span>Serbia</span>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>City:</span>
-                                <span>Central, Singapore</span>
+                                <span>Vladicin Han, Serbia</span>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Age:</span>
-                                <span>{new Date().getFullYear() - 1995}</span>
+                                <span>{new Date().getFullYear() - 1992}</span>
                             </li>
                         </ul>
                     </div>

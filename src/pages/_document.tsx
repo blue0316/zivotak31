@@ -19,7 +19,7 @@ class IQDocument extends Document
                     <meta name='Classification' content='Portfolio'/>
                     <meta name='subject' content='Strahinja Milovanovic Full-Stack Developer & Graphic Designer'/>
                     <meta name='description' content="Strahinja Milovanovic Full-Stack Developer & Graphic Designer. Strahinja Milovanovic focuses on JavaScript-related technologies like Typescript, NodeJS and React. Strahinja Milovanovic is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."/>
-                    <meta name='keywords' content='Strahinja Milovanovic, Strahinja Milovanovic Portfolio, Full-Stack Developer, Developer, Central, Singapore, JavaScript, TypeScript, Graphic Designer'/>
+                    <meta name='keywords' content='Strahinja Milovanovic, Strahinja Milovanovic Portfolio, Full-Stack Developer, Developer, Vladicin Han, Serbia, JavaScript, TypeScript, Graphic Designer'/>
                     <meta name='author' content='Strahinja Milovanovic'/>
 
                     <meta property='og:type' content='website'/>
