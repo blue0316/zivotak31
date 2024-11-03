@@ -1,6 +1,6 @@
 {
-    "short_name": "andrewultimate",
-    "name": "AndrewJin",
+    "short_name": "strahinjam",
+    "name": "Strahinja Milovanovic",
     "icons":
     [
         {
@@ -9,7 +9,6 @@
             "type": "image/x-icon"
         }
     ],
-    "start_url": "https://andrewultimate.dev",
     "display": "standalone",
     "theme_color": "#5294E2",
     "background_color": "#323540"

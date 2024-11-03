@@ -18,22 +18,22 @@ const Projects: NextPage = () =>
             <Head>
                 <meta name='Classification' content='Portfolio Project'/>
                 <meta name='subject' content='Portfolio Project'/>
-                <meta name='description' content='AndrewUltimate Project'/>
-                <meta name='keywords' content='AndrewUltimate, IQ, Quantum, Intelligent, Project'/>
-                <meta name='author' content='AndrewUltimate'/>
+                <meta name='description' content='StrahinjaM Project'/>
+                <meta name='keywords' content='StrahinjaM, IQ, Quantum, Intelligent, Project'/>
+                <meta name='author' content='StrahinjaM'/>
 
                 <meta property='og:type' content='website'/>
-                <meta property='og:url' content='https://andrewultimate.dev/projects'/>
-                <meta property='og:title' content='AndrewUltimate'/>
-                <meta property='og:description' content='AndrewUltimate Projects'/>
-                <meta property='og:image' content='https://andrewultimate.dev/favicon.png'/>
+                <meta property='og:url' content='https://strahinjam.vercel.app/projects'/>
+                <meta property='og:title' content='StrahinjaM'/>
+                <meta property='og:description' content='StrahinjaM Projects'/>
+                <meta property='og:image' content='https://strahinjam.vercel.app/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
-                <meta property='twitter:url' content='https://andrewultimate.dev/Projects'/>
-                <meta property='twitter:title' content='AndrewUltimate'/>
-                <meta property='twitter:description' content='AndrewUltimate Projects'/>
+                <meta property='twitter:url' content='https://strahinjam.vercel.app/Projects'/>
+                <meta property='twitter:title' content='StrahinjaM'/>
+                <meta property='twitter:description' content='StrahinjaM Projects'/>
 
-                <title>AndrewUltimate &mdash; Projects</title>
+                <title>StrahinjaM &mdash; Projects</title>
             </Head>
 
             <section className={styles.projects}>

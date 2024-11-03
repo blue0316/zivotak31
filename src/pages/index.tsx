@@ -44,7 +44,7 @@ const Home: NextPage = (props: any) => {
     return (
         <Fragment>
             <Head>
-                <title>AndrewUltimate &mdash; Full-Stack Developer</title>
+                <title>StrahinjaM &mdash; Full-Stack Developer</title>
             </Head>
 
             <section className={styles.home}>

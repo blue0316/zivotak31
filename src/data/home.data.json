@@ -37,49 +37,49 @@
                 "id": 1,
                 "name": "HTML",
                 "src": "/images/logos/logo-html.png",
-                "alt": "AndrewUltimate Html Logo"
+                "alt": "StrahinjaM Html Logo"
             },
             {
                 "id": 2,
                 "name": "Sass",
                 "src": "/images/logos/logo-sass.png",
-                "alt": "AndrewUltimate sass Logo"
+                "alt": "StrahinjaM sass Logo"
             },
             {
                 "id": 3,
                 "name": "TailwindCSS",
                 "src": "/images/logos/logo-tailwindcss.png",
-                "alt": "AndrewUltimate TailwindCSS Logo"
+                "alt": "StrahinjaM TailwindCSS Logo"
             },
             {
                 "id": 4,
                 "name": "ReactJS",
                 "src": "/images/logos/logo-react.png",
-                "alt": "AndrewUltimate ReactJS Logo"
+                "alt": "StrahinjaM ReactJS Logo"
             },
             {
                 "id": 5,
                 "name": "NextJS",
                 "src": "/images/logos/logo-next.png",
-                "alt": "AndrewUltimate NextJS Logo"
+                "alt": "StrahinjaM NextJS Logo"
             },
             {
                 "id": 6,
                 "name": "SvelteKit",
                 "src": "/images/logos/logo-sveltekit.png",
-                "alt": "AndrewUltimate SvelteKit Logo"
+                "alt": "StrahinjaM SvelteKit Logo"
             },
             {
                 "id": 7,
                 "name": "AngularJS",
                 "src": "/images/logos/logo-angular.png",
-                "alt": "AndrewUltimate AngularJS Logo"
+                "alt": "StrahinjaM AngularJS Logo"
             },
             {
                 "id": 8,
                 "name": "VueJS",
                 "src": "/images/logos/logo-vue.png",
-                "alt": "AndrewUltimate VueJS Logo"
+                "alt": "StrahinjaM VueJS Logo"
             }
         ],
         "backend": [
@@ -87,37 +87,37 @@
                 "id": 1,
                 "name": "NodeJS",
                 "src": "/images/logos/logo-node.png",
-                "alt": "AndrewUltimate NodeJS Logo"
+                "alt": "StrahinjaM NodeJS Logo"
             },
             {
                 "id": 2,
                 "name": "DenoJS",
                 "src": "/images/logos/logo-deno.png",
-                "alt": "AndrewUltimate DenoJS Logo"
+                "alt": "StrahinjaM DenoJS Logo"
             },
             {
                 "id": 3,
                 "name": "ExpressJS",
                 "src": "/images/logos/logo-express.png",
-                "alt": "AndrewUltimate ExpressJS Logo"
+                "alt": "StrahinjaM ExpressJS Logo"
             },
             {
                 "id": 4,
                 "name": "NestJS",
                 "src": "/images/logos/logo-nest.png",
-                "alt": "AndrewUltimate NestJS Logo"
+                "alt": "StrahinjaM NestJS Logo"
             },
             {
                 "id": 5,
                 "name": "Laravel",
                 "src": "/images/logos/logo-laravel.png",
-                "alt": "AndrewUltimate Laravel Logo"
+                "alt": "StrahinjaM Laravel Logo"
             },
             {
                 "id": 6,
                 "name": "Ruby on rails",
                 "src": "/images/logos/logo-ruby.png",
-                "alt": "AndrewUltimate Ruby on rails Logo"
+                "alt": "StrahinjaM Ruby on rails Logo"
             }
         ],
         "cms": [
@@ -125,25 +125,25 @@
                 "id": 1,
                 "name": "WordPress",
                 "src": "/images/logos/logo-wordpress.png",
-                "alt": "AndrewUltimate WordPress Logo"
+                "alt": "StrahinjaM WordPress Logo"
             },
             {
                 "id": 2,
                 "name": "Webflow",
                 "src": "/images/logos/logo-webflow.png",
-                "alt": "AndrewUltimate Webflow Logo"
+                "alt": "StrahinjaM Webflow Logo"
             },
             {
                 "id": 3,
                 "name": "Shopify",
                 "src": "/images/logos/logo-shopify.png",
-                "alt": "AndrewUltimate Shopify Logo"
+                "alt": "StrahinjaM Shopify Logo"
             },
             {
                 "id": 4,
                 "name": "Squarespace",
                 "src": "/images/logos/logo-squarespace.png",
-                "alt": "AndrewUltimate Squarespace Logo"
+                "alt": "StrahinjaM Squarespace Logo"
             }
         ],
         "crossPlatforms": [
@@ -151,19 +151,19 @@
                 "id": 1,
                 "name": "ElectronJS",
                 "src": "/images/logos/logo-electron.png",
-                "alt": "AndrewUltimate ElectronJS Logo"
+                "alt": "StrahinjaM ElectronJS Logo"
             },
             {
                 "id": 2,
                 "name": "React Native",
                 "src": "/images/logos/logo-react-native.png",
-                "alt": "AndrewUltimate React native Logo"
+                "alt": "StrahinjaM React native Logo"
             },
             {
                 "id": 3,
                 "name": "Python",
                 "src": "/images/logos/logo-python.png",
-                "alt": "AndrewUltimate Python Logo"
+                "alt": "StrahinjaM Python Logo"
             }
         ]
     }

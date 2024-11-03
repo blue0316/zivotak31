@@ -1,10 +1,10 @@
 {
-    "name": "andrewutlimate.github.io",
-    "homepage": "https://andrewutlimate.github.io/",
+    "name": "strahinjam.vercel.app",
+    "homepage": "https://strahinjam.vercel.app/",
     "author": {
-        "name": "Andrew Jin",
-        "email": "hello@andrewultimate.me",
-        "url": "https://andrewultimate.me/"
+        "name": "Strahinja Milovanovic",
+        "email": "stralinjo72@gmail.com",
+        "url": "https://strahinjam.vercel.app/"
     },
     "version": "3.0.0",
     "private": true,

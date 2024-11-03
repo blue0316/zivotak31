@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://andrewultimate.dev/sitemap.xml
+Sitemap: https://strahinjam.vercel.app/sitemap.xml

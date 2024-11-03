@@ -16,22 +16,22 @@ const Hobbies: NextPage = () =>
             <Head>
                 <meta name='Classification' content='Portfolio Hobbies'/>
                 <meta name='subject' content='Portfolio Hobbies'/>
-                <meta name='description' content='AndrewUltimate Hobbies'/>
-                <meta name='keywords' content='AndrewUltimate, IQ, Quantum, Intelligent, Hobbies'/>
-                <meta name='author' content='AndrewUltimate'/>
+                <meta name='description' content='StrahinjaM Hobbies'/>
+                <meta name='keywords' content='StrahinjaM, IQ, Quantum, Intelligent, Hobbies'/>
+                <meta name='author' content='StrahinjaM'/>
 
                 <meta property='og:type' content='website'/>
-                <meta property='og:url' content='https://andrewultimate.dev/hobbies'/>
-                <meta property='og:title' content='AndrewUltimate'/>
-                <meta property='og:description' content='AndrewUltimate Hobbies'/>
-                <meta property='og:image' content='https://andrewultimate.dev/favicon.png'/>
+                <meta property='og:url' content='https://strahinjam.vercel.app/hobbies'/>
+                <meta property='og:title' content='StrahinjaM'/>
+                <meta property='og:description' content='StrahinjaM Hobbies'/>
+                <meta property='og:image' content='https://strahinjam.vercel.app/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
-                <meta property='twitter:url' content='https://andrewultimate.dev/hobbies'/>
-                <meta property='twitter:title' content='AndrewUltimate'/>
-                <meta property='twitter:description' content='AndrewUltimate Hobbies'/>
+                <meta property='twitter:url' content='https://strahinjam.vercel.app/hobbies'/>
+                <meta property='twitter:title' content='StrahinjaM'/>
+                <meta property='twitter:description' content='StrahinjaM Hobbies'/>
 
-                <title>AndrewUltimate &mdash; Hobbies</title>
+                <title>StrahinjaM &mdash; Hobbies</title>
             </Head>
 
             <section className={styles.hobbies}>

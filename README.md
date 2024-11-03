@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img width="200px" src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/public/favicon.png" alt="Andrew Jin"/>
+    <img width="200px" src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/public/favicon.png" alt="Strahinja Milovanovic"/>
     <br/>
     My Personal Website - Portfolio
 </h1>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/README.png" alt="Andrew Jin"/>
+    <img src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/README.png" alt="Strahinja Milovanovic"/>
 </div>
 
 <h3 align="center">
@@ -17,10 +17,6 @@
 Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
 
 I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
-
-### TL;DR
-
-Yes, you can fork this repo. Please give me proper credit by linking back to [AndrewUltimate.Dev](https://andrewultimate.dev). Thanks!
 
 ## 🛠 Installation & Set Up
 
@@ -55,6 +51,3 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [An
    ```sh
    npm start
    ```
-
-## ⚠️ License & 📝 Credits
-AndrewUltimate.Dev is open-source portfolio-website licensed under the MIT General Public License v3.0. created by [@AndrewUltimate](https://github.com/blue0316) & [@im-parsa](https://github.com/im-parsa).
