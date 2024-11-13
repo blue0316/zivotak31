@@ -68,12 +68,6 @@ const Nav = () =>
                         PROJECTS
                     </Link>
                     <Link
-                        href='/contact'
-                        data-open={navbarOpen}
-                        className={styles.navContentListItem}>
-                        CONTACT
-                    </Link>
-                    <Link
                         href='/hobbies'
                         data-open={navbarOpen}
                         className={styles.navContentListItem}>

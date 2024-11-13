@@ -155,13 +155,13 @@ const Aside = () =>
                         })
                     }
                 </ul>
-
+{/* 
                 <div className={styles.aside__divider} />
 
                 <a href='/resume.pdf' download className={styles.asideInformationCV}>
                     <CgSoftwareDownload />
                     <span>{t('common:aside.8.download')}</span>
-                </a>
+                </a> */}
             </div>
 
             {/* <div className={styles.asideFooter}>

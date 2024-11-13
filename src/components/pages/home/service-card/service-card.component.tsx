@@ -21,10 +21,10 @@ const ServiceCard = ({ title, description }: ServiceCardProps) =>
             <p className={styles.serviceCardParagraph}>
                 {description}
             </p>
-            <Link href='/contact' className={styles.serviceCardButton}>
+            {/* <Link href='/contact' className={styles.serviceCardButton}>
                 {t('common:order')}
                 <BiChevronRight />
-            </Link>
+            </Link> */}
         </div>
     );
 };
