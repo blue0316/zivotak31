@@ -39,7 +39,7 @@ const Aside = () =>
                     <Image
                         className={styles.asideUserImage}
                         src='/images/my-image1.png'
-                        alt='strahinjam'
+                        alt='zivotakondic'
                         width={100}
                         height={100}
                     />
@@ -48,7 +48,7 @@ const Aside = () =>
 
                 <div className={styles.asideUserInfoContainer}>
                     <Link href='/' className={styles.asideUserName}>
-                        Strahinja Milovanovic
+                        Zivota Kondic
                     </Link>
                     <span className={styles.asideUserTitle}>{t('common:aside.0.userTitle')}</span>
                     <span className={styles.asideUserTitle}>{t('common:aside.1.userSubtitle')}</span>
@@ -165,10 +165,10 @@ const Aside = () =>
             </div>
 
             {/* <div className={styles.asideFooter}>
-                <a href='https://www.instagram.com/StrahinjaM/' target='_blank'>
+                <a href='https://www.instagram.com/ZivotaKondic/' target='_blank'>
                     <BsInstagram />
                 </a>
-                <a href='https://dribbble.com/StrahinjaM' target='_blank'>
+                <a href='https://dribbble.com/ZivotaKondic' target='_blank'>
                     <BsDribbble />
                 </a>
                 <a href='https://twitter.com/IntelligentQM' target='_blank'>
@@ -177,7 +177,7 @@ const Aside = () =>
                 <a href='https://github.com/blue0316' target='_blank'>
                     <BsGithub />
                 </a>
-                <a href='https://www.linkedin.com/in/strahinjam-sharp/' target='_blank'>
+                <a href='https://www.linkedin.com/in/zivotakondic-sharp/' target='_blank'>
                     <BsLinkedin />
                 </a>
             </div> */}

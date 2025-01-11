@@ -23,7 +23,7 @@
     "about":
     [
         { "heading": "À propos de moi" },
-        { "paragraph": "Strahinja est un grand passionné de problèmes non résolus et un ingénieur logiciel hautement qualifié avec plus de neuf ans d'expérience dans le web, le mobile, le développement de logiciels et les produits web3 travaillant pour des entreprises allant des petites startups aux grandes.\nIl aime travailler avec les gens, n'a pas peur des changements, est très doué pour les relations interpersonnelles et est toujours ouvert aux nouveaux défis. Il a de l'expérience avec PHP et Python ainsi qu'avec leurs frameworks tels que Poco et Qt, mais il se concentre sur JavaScript- technologies connexes telles que Typescript, NodeJS, DenoJS, NestJS, NextJS, React et React Native." },
+        { "paragraph": "Zivota est un grand passionné de problèmes non résolus et un ingénieur logiciel hautement qualifié avec plus de neuf ans d'expérience dans le web, le mobile, le développement de logiciels et les produits web3 travaillant pour des entreprises allant des petites startups aux grandes.\nIl aime travailler avec les gens, n'a pas peur des changements, est très doué pour les relations interpersonnelles et est toujours ouvert aux nouveaux défis. Il a de l'expérience avec PHP et Python ainsi qu'avec leurs frameworks tels que Poco et Qt, mais il se concentre sur JavaScript- technologies connexes telles que Typescript, NodeJS, DenoJS, NestJS, NextJS, React et React Native." },
         { "fat": "Cadres et technologies" }
     ],
     "services":

@@ -35,22 +35,22 @@ const Contact: NextPage = () =>
             <Head>
                 <meta name='Classification' content='Contact'/>
                 <meta name='subject' content='Contact'/>
-                <meta name='description' content='StrahinjaM Contact'/>
-                <meta name='keywords' content='StrahinjaM, IQ, Quantum, Intelligent, Contact'/>
-                <meta name='author' content='StrahinjaM'/>
+                <meta name='description' content='ZivotaKondic Contact'/>
+                <meta name='keywords' content='ZivotaKondic, IQ, Quantum, Intelligent, Contact'/>
+                <meta name='author' content='ZivotaKondic'/>
 
                 <meta property='og:type' content='website'/>
-                <meta property='og:url' content='https://strahinjam.vercel.app/contact'/>
-                <meta property='og:title' content='StrahinjaM'/>
-                <meta property='og:description' content='StrahinjaM Contact'/>
-                <meta property='og:image' content='https://strahinjam.vercel.app/favicon.png'/>
+                <meta property='og:url' content='https://zivotakondic.vercel.app/contact'/>
+                <meta property='og:title' content='ZivotaKondic'/>
+                <meta property='og:description' content='ZivotaKondic Contact'/>
+                <meta property='og:image' content='https://zivotakondic.vercel.app/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
-                <meta property='twitter:url' content='https://strahinjam.vercel.app/contact'/>
-                <meta property='twitter:title' content='StrahinjaM'/>
-                <meta property='twitter:description' content='StrahinjaM Contact'/>
+                <meta property='twitter:url' content='https://zivotakondic.vercel.app/contact'/>
+                <meta property='twitter:title' content='ZivotaKondic'/>
+                <meta property='twitter:description' content='ZivotaKondic Contact'/>
 
-                <title>StrahinjaM &mdash; Contact with me</title>
+                <title>ZivotaKondic &mdash; Contact with me</title>
             </Head>
 
             <section className={styles.contact}>
@@ -76,11 +76,11 @@ const Contact: NextPage = () =>
                         <ul className={styles.contactCardsCardList}>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Gmail:</span>
-                                <a href="mailto:StrahinjaM0316@gmail.com">StrahinjaM0316@gmail.com</a>
+                                <a href="mailto:ZivotaKondic0316@gmail.com">ZivotaKondic0316@gmail.com</a>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>ProtonMail:</span>
-                                <a href="mailto:stralinjo72@gmail.com">stralinjo72@gmail.com</a>
+                                <a href="mailto:zivotakondic31@gmail.com">zivotakondic31@gmail.com</a>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Discord:</span>

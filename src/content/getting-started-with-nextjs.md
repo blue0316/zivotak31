@@ -1,5 +1,5 @@
 ---
-author: 'StrahinjaM'
+author: 'ZivotaKondic'
 source: 'NextJS'
 date: '2020-01-01'
 category: 'educational'

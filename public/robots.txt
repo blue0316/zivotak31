@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://strahinjam.vercel.app/sitemap.xml
+Sitemap: https://zivotakondic.vercel.app/sitemap.xml

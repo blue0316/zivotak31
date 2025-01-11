@@ -16,7 +16,7 @@ const OrganizationCard = ({ login, avatarUrl }: any) =>
             >
                 <Image
                     src={avatarUrl}
-                    alt={`StrahinjaM ${ login }`}
+                    alt={`ZivotaKondic ${ login }`}
                     width={120}
                     height={120}
                 />

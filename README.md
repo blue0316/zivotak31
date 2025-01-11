@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img width="200px" src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/public/favicon.png" alt="Strahinja Milovanovic"/>
+    <img width="200px" src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/public/favicon.png" alt="Zivota Kondic"/>
     <br/>
     My Personal Website - Portfolio
 </h1>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/README.png" alt="Strahinja Milovanovic"/>
+    <img src="https://raw.githubusercontent.com/blue0316/my-portfolio/main/README.png" alt="Zivota Kondic"/>
 </div>
 
 <h3 align="center">

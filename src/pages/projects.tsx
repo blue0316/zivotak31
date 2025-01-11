@@ -18,22 +18,22 @@ const Projects: NextPage = () =>
             <Head>
                 <meta name='Classification' content='Portfolio Project'/>
                 <meta name='subject' content='Portfolio Project'/>
-                <meta name='description' content='StrahinjaM Project'/>
-                <meta name='keywords' content='StrahinjaM, IQ, Quantum, Intelligent, Project'/>
-                <meta name='author' content='StrahinjaM'/>
+                <meta name='description' content='ZivotaKondic Project'/>
+                <meta name='keywords' content='ZivotaKondic, IQ, Quantum, Intelligent, Project'/>
+                <meta name='author' content='ZivotaKondic'/>
 
                 <meta property='og:type' content='website'/>
-                <meta property='og:url' content='https://strahinjam.vercel.app/projects'/>
-                <meta property='og:title' content='StrahinjaM'/>
-                <meta property='og:description' content='StrahinjaM Projects'/>
-                <meta property='og:image' content='https://strahinjam.vercel.app/favicon.png'/>
+                <meta property='og:url' content='https://zivotakondic.vercel.app/projects'/>
+                <meta property='og:title' content='ZivotaKondic'/>
+                <meta property='og:description' content='ZivotaKondic Projects'/>
+                <meta property='og:image' content='https://zivotakondic.vercel.app/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
-                <meta property='twitter:url' content='https://strahinjam.vercel.app/Projects'/>
-                <meta property='twitter:title' content='StrahinjaM'/>
-                <meta property='twitter:description' content='StrahinjaM Projects'/>
+                <meta property='twitter:url' content='https://zivotakondic.vercel.app/Projects'/>
+                <meta property='twitter:title' content='ZivotaKondic'/>
+                <meta property='twitter:description' content='ZivotaKondic Projects'/>
 
-                <title>StrahinjaM &mdash; Projects</title>
+                <title>ZivotaKondic &mdash; Projects</title>
             </Head>
 
             <section className={styles.projects}>

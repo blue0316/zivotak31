@@ -1,10 +1,10 @@
 {
-    "name": "strahinjam.vercel.app",
-    "homepage": "https://strahinjam.vercel.app/",
+    "name": "zivotakondic.vercel.app",
+    "homepage": "https://zivotakondic.vercel.app/",
     "author": {
-        "name": "Strahinja Milovanovic",
-        "email": "stralinjo72@gmail.com",
-        "url": "https://strahinjam.vercel.app/"
+        "name": "Zivota Kondic",
+        "email": "zivotakondic31@gmail.com",
+        "url": "https://zivotakondic.vercel.app/"
     },
     "version": "3.0.0",
     "private": true,
