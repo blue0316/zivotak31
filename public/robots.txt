@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zivotakondic.vercel.app/sitemap.xml
+Sitemap: https://zivotak31.vercel.app/sitemap.xml

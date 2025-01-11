@@ -40,13 +40,13 @@ const Contact: NextPage = () =>
                 <meta name='author' content='ZivotaKondic'/>
 
                 <meta property='og:type' content='website'/>
-                <meta property='og:url' content='https://zivotakondic.vercel.app/contact'/>
+                <meta property='og:url' content='https://zivotak31.vercel.app/contact'/>
                 <meta property='og:title' content='ZivotaKondic'/>
                 <meta property='og:description' content='ZivotaKondic Contact'/>
-                <meta property='og:image' content='https://zivotakondic.vercel.app/favicon.png'/>
+                <meta property='og:image' content='https://zivotak31.vercel.app/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
-                <meta property='twitter:url' content='https://zivotakondic.vercel.app/contact'/>
+                <meta property='twitter:url' content='https://zivotak31.vercel.app/contact'/>
                 <meta property='twitter:title' content='ZivotaKondic'/>
                 <meta property='twitter:description' content='ZivotaKondic Contact'/>
 

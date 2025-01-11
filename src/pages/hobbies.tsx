@@ -21,13 +21,13 @@ const Hobbies: NextPage = () =>
                 <meta name='author' content='ZivotaKondic'/>
 
                 <meta property='og:type' content='website'/>
-                <meta property='og:url' content='https://zivotakondic.vercel.app/hobbies'/>
+                <meta property='og:url' content='https://zivotak31.vercel.app/hobbies'/>
                 <meta property='og:title' content='ZivotaKondic'/>
                 <meta property='og:description' content='ZivotaKondic Hobbies'/>
-                <meta property='og:image' content='https://zivotakondic.vercel.app/favicon.png'/>
+                <meta property='og:image' content='https://zivotak31.vercel.app/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
-                <meta property='twitter:url' content='https://zivotakondic.vercel.app/hobbies'/>
+                <meta property='twitter:url' content='https://zivotak31.vercel.app/hobbies'/>
                 <meta property='twitter:title' content='ZivotaKondic'/>
                 <meta property='twitter:description' content='ZivotaKondic Hobbies'/>
 
